@@ -30,3 +30,11 @@ if (age1 > age2) {
     console.log("I think you don't know numbers!")
 }
 
+//isLoggedIn Conditional Challenge
+let isLoggedIn = true //rep being logged in
+
+if (isLoggedIn) {
+    console.log("Welcome back!") //am logged in
+} else {
+    console.log("Please log in.") //not logged in
+}
